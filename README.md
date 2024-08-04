@@ -1,7 +1,8 @@
 Deep_learning
 ==============================
 
-A short description of the project.
+Deep Learning using TensorFlow.
+Dataset: employee_attrition.csv
 
 Project Organization
 ------------
